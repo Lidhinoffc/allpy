@@ -6,7 +6,7 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "allpy"
+name = "allkitpy"
 version = "0.1.0"
 description = "An all-in-one Python utility library for text, math, image, PDF, audio, video, web, data, file, system, and AI operations."
 
@@ -21,7 +21,7 @@ authors = [
 
 keywords = [
     "python",
-    "allpy",
+    "allkitpy",
     "utilities",
     "image",
     "pdf",
@@ -73,11 +73,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Lidhinoffc/allpy"
-Documentation = "https://github.com/Lidhinoffc/allpy"
-Repository = "https://github.com/Lidhinoffc/allpy"
-Issues = "https://github.com/Lidhinoffc/allpy/issues"
-Changelog = "https://github.com/Lidhinoffc/allpy/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Lidhinoffc/allkitpy"
+Documentation = "https://github.com/Lidhinoffc/allkitpy#readme"
+Repository = "https://github.com/Lidhinoffc/allkitpy"
+Issues = "https://github.com/Lidhinoffc/allkitpy/issues"
 
 [project.optional-dependencies]
 
